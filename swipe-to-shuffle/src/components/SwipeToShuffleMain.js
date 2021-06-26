@@ -7,23 +7,23 @@ const SwipeToShuffleMain = () => {
       <SwipeToShuffleContainer>
             <div className="wrapper">
               <div className="item">
-                <span className="text">Draggable Element One</span>
+                <span className="text">Swipe Element One</span>
                 <i className="fas fa-bars"></i>
               </div>
               <div className="item">
-                <span className="text">Draggable Element Two</span>
+                <span className="text">Swipe Element Two</span>
                 <i className="fas fa-bars"></i>
               </div>
               <div className="item">
-                <span className="text">Draggable Element Three</span>
+                <span className="text">Swipe Element Three</span>
                 <i className="fas fa-bars"></i>
               </div>
               <div className="item">
-                <span className="text">Draggable Element Four</span>
+                <span className="text">Swipe Element Four</span>
                 <i className="fas fa-bars"></i>
               </div>
               <div className="item">
-                <span className="text">Draggable Element Five</span>
+                <span className="text">Swipe Element Five</span>
                 <i className="fas fa-bars"></i>
               </div>
         </div>

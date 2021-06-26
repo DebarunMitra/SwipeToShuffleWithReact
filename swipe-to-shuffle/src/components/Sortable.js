@@ -4,10 +4,10 @@ import { ReactSortable } from "react-sortablejs";
 
 const Sortable = () => {
   const [state, setState] = useState([
-    { id: 1, name: "Draggable Element One" },
-    { id: 2, name: "Draggable Element Two" },
-    { id: 3, name: "Draggable Element Three" },
-    { id: 4, name: "Draggable Element Four" },
+    { id: 1, name: "Swipe Element One" },
+    { id: 2, name: "Swipe Element Two" },
+    { id: 3, name: "Swipe Element Three" },
+    { id: 4, name: "Swipe Element Four" },
   ]);
 
   return (
